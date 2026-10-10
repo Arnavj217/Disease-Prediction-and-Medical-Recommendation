@@ -40,34 +40,7 @@ The system uses comprehensive medical datasets containing:
 - `precautions_df.csv`: Preventive measures and precautions
 - `Symptom-severity.csv`: Symptom severity classifications
 
-## 🔧 Installation & Setup
 
-### Prerequisites
-- Python 3.7+
-- pip package manager
-
-### Installation Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sohamvsonar/Disease-Prediction-and-Medical-Recommendation-System.git
-   cd Disease-Prediction-and-Medical-Recommendation-System
-   ```
-
-2. **Install required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Flask application:**
-   ```bash
-   python main.py
-   ```
-
-4. **Access the application:**
-   Open your web browser and navigate to:
-   ```
-   http://localhost:5000
    ```
 
 ## 📱 Usage
